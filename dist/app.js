@@ -1,4 +1,4 @@
-import { greet, test, test2, test4 } from "./sample";
+import { greet, test, test2, test4, test5 } from "./sample";
 /**
  * Calling Greet method for printing hello word.
  */
@@ -27,5 +27,11 @@ console.log(m2);
 /**
  * Calling Test4 method for printing hello word.
  */
-let m4 = test4("Test2");
+let m4 = test4("Test4");
 console.log(m4);
+
+/**
+ * Calling Test4 method for printing hello word.
+ */
+let m5 = test5("Test5");
+console.log(m5);

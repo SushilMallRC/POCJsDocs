@@ -44,3 +44,13 @@ export function test3(name: string): string {
 export function test4(name: string): string {
   return `Hello, ${name}!`;
 }
+
+/**
+ * Test5 method is being called
+ * @param name
+ * @returns
+ */
+
+export function test5(name: string): string {
+  return `Hello, ${name}!`;
+}
