@@ -1,2 +1,2 @@
-This is test project
+This is tests project
 Add SSH
